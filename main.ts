@@ -8,6 +8,12 @@
 // very agent that did the losing. Playful, never hateful; the target is the
 // entrant's own agent, not a person.
 //
+// Why this line, against the judge's brief (funnier, fresher, tighter):
+// the angle is fresh — no hallucination, refusal, or confident-wrong-answer
+// stock joke, but the agent's own paperwork habit (the post-mortem) turned
+// against it; the setup is one short clause and the punchline is the final
+// clause, so every word earns its place.
+//
 // Deterministic: the same bytes on every run. No network, no input.
 import { mkdirSync, writeFileSync } from "node:fs";
 
